@@ -5,7 +5,7 @@ sedOlaFlow solver for OpenFOAM
 * OpenFOAM
 * Supported OpenFoam Versions: 1712
 
-**Installation**
+### Installation ###
 
 * Install OpenFOAM
 * Install waves2Foam
@@ -17,13 +17,13 @@ sedOlaFlow solver for OpenFOAM
 * ./Allwclean
 * ./Allwmake
 
-**Tutorial**
+### Tutorial ###
 * not ready - under development
 
-**Case setup**
+### Case setup ###
 XXX
 link:
 
-**Contacts**
+### Contacts ###
 * Marie-Pierre Delisle: mpdelisle@ucla.edu
 * Yeulwoo Kim: ykim@udel.edu
