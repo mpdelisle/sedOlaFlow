@@ -10,7 +10,7 @@ sedOlaFlow solver for OpenFOAM
 * Install OpenFOAM
 * Install waves2Foam
 * Install olaFlow
-* git clone https://github.com/sedwavefoam/sedwavefoam sedwavefoam
+* git clone https://github.com/mpdelisle/sedOlaFlow sedOlaFlow
 * cd sedolaflow
 * Delete all dep files using (find . -name *.dep -type f -delete)
 * source bashrc of OpenFOAM and waves2Foam
