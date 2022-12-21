@@ -3,7 +3,7 @@ sedOlaFlow solver for OpenFOAM
 
 ### What is this repository for? ###
 * OpenFOAM
-* Supported OpenFoam Versions: 1712
+* Supported OpenFoam Versions: v1712
 
 ### Installation ###
 
