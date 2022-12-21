@@ -18,7 +18,7 @@ sedOlaFlow solver for OpenFOAM
 * ./Allwmake
 
 **Tutorial**
-not ready - under development
+* not ready - under development
 
 **Case setup**
 XXX
