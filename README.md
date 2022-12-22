@@ -8,7 +8,6 @@ sedOlaFlow solver for OpenFOAM. sedOlaFlow explicitly resolves high-frequency fr
 ### Installation ###
 
 * Install OpenFOAM
-* Install waves2Foam
 * Install olaFlow
 * git clone https://github.com/mpdelisle/sedOlaFlow sedOlaFlow
 * cd sedOlaFlow
