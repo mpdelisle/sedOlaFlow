@@ -1,5 +1,5 @@
 # sedOlaFlow
-sedOlaFlow solver for OpenFOAM
+sedOlaFlow solver for OpenFOAM. sedOlaFlow explicitly resolves high-frequency free-surface fluctuations, directly accounts for air, fluid, and sediment phases, and includes dynamic beach surface-subsurface processes.
 
 ### What is this repository for? ###
 * OpenFOAM
