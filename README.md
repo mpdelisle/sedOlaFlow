@@ -24,4 +24,4 @@ Gravel, permeable beach: https://github.com/mpdelisle/Kikkert-Pokrajac-ODonoghue
 
 ### Contacts ###
 * Marie-Pierre Delisle: mpdelisle@ucla.edu
-* Yeulwoo Kim: ykim@udel.edu
+* Yeulwoo Kim: yarkim@pknu.ac.kr
