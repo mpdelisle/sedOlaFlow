@@ -17,12 +17,10 @@ sedOlaFlow solver for OpenFOAM
 * ./Allwclean
 * ./Allwmake
 
-### Tutorial ###
-* not ready - under development
-
 ### Case setup ###
-XXX
-link:
+Gravel, permeable beach: https://github.com/mpdelisle/Kikkert-Pokrajac-ODonoghue-Steenhauer-2013  
+*For details of the physical experiment refer to Kikkert et al., 2013, Coastal Engineering, https://doi.org/10.1016/j.coastaleng.2013.04.008
+
 
 ### Contacts ###
 * Marie-Pierre Delisle: mpdelisle@ucla.edu
